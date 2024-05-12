@@ -9,8 +9,6 @@ export '/pages/payment/payment_widget.dart' show PaymentWidget;
 export '/pages/teacherintro/teacherintro_widget.dart' show TeacherintroWidget;
 export '/pages/trg/trg_widget.dart' show TrgWidget;
 export '/pages/pct/pct_widget.dart' show PctWidget;
-export '/pages/teacher_page_old/teacher_page_old_widget.dart'
-    show TeacherPageOldWidget;
 export '/pages/teacherlogin/teacherlogin_widget.dart' show TeacherloginWidget;
 export '/authorized/authorization/authorization_widget.dart'
     show AuthorizationWidget;

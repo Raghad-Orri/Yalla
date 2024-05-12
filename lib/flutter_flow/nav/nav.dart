@@ -102,11 +102,6 @@ GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
           ),
         ),
         FFRoute(
-          name: 'TeacherPageOld',
-          path: '/teacherPageOld',
-          builder: (context, params) => const TeacherPageOldWidget(),
-        ),
-        FFRoute(
           name: 'teacherlogin',
           path: '/teacherlogin',
           builder: (context, params) => const TeacherloginWidget(),
